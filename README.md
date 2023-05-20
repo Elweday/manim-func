@@ -111,9 +111,3 @@ https://github.com/Elweday/manim-func/assets/100801944/b3d8d221-076f-4320-ae33-2
 
 #### It is not much, But it's about the possiblities 
 
-
-
-
-```python
-
-```
