@@ -77,9 +77,9 @@ def S_tex(self):
 ```
 
 
-```python
-# Scenes can be sorted and manipulated, combined with metadata
-```
+
+### Scenes can be sorted and manipulated, combined with metadata
+
 
 
 ```python
@@ -91,6 +91,7 @@ Scenes = {
   }
 }
 ```
+#### Converting all the scene functions to classes (not exactly), but it does work as intended
 
 
 ```python
@@ -104,10 +105,12 @@ for constructor, meta in Scenes.items():
 
                                                                                                                            
 
+#### Result
 
-<video src="media\jupyter\S_tex@2023-05-20@08-57-50.mp4" controls autoplay loop style="max-width: 60%;"  >
-      Your browser does not support the <code>video</code> element.
-    </video>
+https://github.com/Elweday/manim-func/assets/100801944/b3d8d221-076f-4320-ae33-209959cf3110
+
+#### It is not much, But it's about the possiblities 
+
 
 
 
